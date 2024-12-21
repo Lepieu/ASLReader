@@ -10,6 +10,9 @@ The repository contains two Convolutional Neural Networks -- one made using the 
 
 ## Prerequisites
 
+A collection of images used for training and testing must be inputted into the folder titled
+
+
 ## Usage
 
 ## Future Implimentations

@@ -10,7 +10,7 @@ The repository contains two Convolutional Neural Networks -- one made using the 
 
 ## Prerequisites
 
-A collection of images used for training and testing must be inputted into the folder titled
+A collection of images used for training and testing must be inputted into the folder titled "Database," and ordered into separate categorical files. They do not need to be split into separate training and testing folders, as that is done by the program. 
 
 
 ## Usage

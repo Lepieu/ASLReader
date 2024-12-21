@@ -23,9 +23,13 @@ I would edit the "outputs" variable to equal 3, as there are 3 files.
 I would also edit the "lettertonumber" dictionary to be:
 
 lettertonumber = {
+  
   "Bee" : 0
+  
   "Three" : 1
+  
   "Misc" : 2
+
 }
 
 ## Future Implimentations

@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project was created for an internship at Mangofarm Assets LLC. The goal was to create a Convolutional Neural Network to recognize images (or break a video into images and recognize them). The model currently is able to read American Sign Language (ASL), with 29 catgories representing each letter, as well as a few special characters, but it can be configured to recognize any type of image with any number of categories.
+This project was created for an internship at IPAssets Technology Inc. The goal was to create a Convolutional Neural Network to recognize images (or break a video into images and recognize them). The model currently is able to read American Sign Language (ASL), with 29 catgories representing each letter, as well as a few special characters, but it can be configured to recognize any type of image with any number of categories.
 
 ## About the Repository
 
